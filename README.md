@@ -1,6 +1,6 @@
 ## Hi there, I'm [Bernardo Gaspar](https://bernardogaspar.com) 👋
 
-#### I'm a student of Information Systems Engineering in UTN Córdoba, ARG with a focus on Data Analysis and Data Science in Artificial Intelligence whit Coderhoude & UTN BA. I have extensive knowledge of Python, Object-Oriented Programming, R, SQL, and cloud databases in AWS. I'm passionate about learning and continuously improving, and I thrive in environments that require flexibility and strong organizational skills.
+I'm a student of Information Systems Engineering in UTN Córdoba, ARG with a focus on Data Analysis and Data Science in Artificial Intelligence whit Coderhoude & UTN BA. I have extensive knowledge of Python, Object-Oriented Programming, R, SQL, and cloud databases in AWS. I'm passionate about learning and continuously improving, and I thrive in environments that require flexibility and strong organizational skills.
 
 ### My Interests:
 
