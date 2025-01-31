@@ -45,8 +45,8 @@ I'm a student of Information Systems Engineering in UTN Córdoba, ARG with a foc
 
 ## Contact With Me 🌍
 
-[![Kaggle](https://img.shields.io/badge/Kaggle-000000?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/tuusuario) 
+[![Kaggle](https://img.shields.io/badge/Kaggle-000000?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/bernardogaspar18) 
 [![Website](https://img.shields.io/badge/Web-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tuweb.com) 
-[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tuusuario) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuusuario/) 
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/berni_gaspar/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernardo-gaspar/) 
 
